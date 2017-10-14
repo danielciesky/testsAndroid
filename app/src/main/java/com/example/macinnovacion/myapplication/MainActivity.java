@@ -32,7 +32,7 @@ public class MainActivity extends AppCompatActivity {
     AlertDialog dialog;
     EditText editText;
 
-    private static final String TAG = "MainActivity";
+    private static final String TAG = "MainActive";
 
 
     @Override
